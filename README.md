@@ -40,7 +40,7 @@ because of potential [dangerous consequences][]. Instead, we can do two things:
 - We can [sanitize][] the data by removing non-alphanumeric characters
 - We can [parameterize][] the query
 
-It is generally recommended to go with parameters. Check out this [Stack Overflow
+It is generally recommended to go with parameters. Check out thisd [Stack Overflow
 question][] for a good example.
 
 [dangerous consequences]: http://xkcd.com/327/
